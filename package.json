@@ -1,0 +1,8 @@
+{
+  "name": "stallhouse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shop website with a password-protected admin. No dependencies.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
